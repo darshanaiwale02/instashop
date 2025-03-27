@@ -1,4 +1,4 @@
-# 🛒 Product Details App
+# 🛒 Instashop App
 
 This is a **React.js** project that displays product details using the **EscuelaJS API**. Users can view details like product name, description, price, category, and images, with the option to buy the product.
 
@@ -17,21 +17,7 @@ https://dshopm.netlify.app
 ```bash
 git clone https://github.com/your-username/product-details-app.git
 
-##Folder Structure
-📂 product-details-app
- ┣ 📂 src
- ┃ ┣ 📂 components
- ┃ ┃ ┗ 📜 ProductDetails.jsx
- ┃ ┣ 📂 pages
- ┃ ┃ ┗ 📜 Home.jsx
- ┃ ┣ 📂 styles
- ┃ ┃ ┗ 📜 index.css
- ┃ ┣ 📜 App.js
- ┃ ┣ 📜 index.js
- ┣ 📜 .gitignore
- ┣ 📜 README.md
- ┣ 📜 package.json
- ┗ 📜 tailwind.config.js
+
 
 ##API End Point
 GET https://api.escuelajs.co/api/v1/products/{id}
