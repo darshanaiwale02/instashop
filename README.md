@@ -1,4 +1,4 @@
-# 🛒 Product Details App
+# 🛒 InstaMart App
 
 This is a **React.js** project that displays product details using the **EscuelaJS API**. Users can view details like product name, description, price, category, and images, with the option to buy the product.
 
