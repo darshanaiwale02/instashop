@@ -16,7 +16,7 @@ https://dshopm.netlify.app
 To run this project locally, follow these steps:
 ### 1️⃣ Clone the repository:
 ```bash
-git clone https://github.com/your-username/product-details-app.git
+https://github.com/darshanaiwale02/instashop.git
 
 2️⃣ Navigate to the project folder:
   cd instashop
